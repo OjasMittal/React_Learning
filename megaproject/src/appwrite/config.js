@@ -134,4 +134,5 @@ export class Service{
 
 
 const service = new Service()
+console.log(conf.appwriteUrl)
 export default service
